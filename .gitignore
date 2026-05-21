@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Generated output
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files — textbook PDF (copyrighted, do not commit)
+利用 Python 进行数据分析*.pdf
+
+# Internal project files (not part of the public release)
+lessons/
+scripts/
